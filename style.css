@@ -33,7 +33,7 @@ h1{
 
 
     width: 95%; /*cria um espaço entre as imagens*/
-    max-width: 600px; /* define a largura*/
+    max-width: 1000px; /* define a largura*/
     height: auto; /* define a altura*/
     justify-self: center ;
 
